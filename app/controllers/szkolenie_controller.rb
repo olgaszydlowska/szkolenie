@@ -3,4 +3,6 @@ class SzkolenieController < ApplicationController
   end
   def edit
   end
+  def new
+  end
 end
