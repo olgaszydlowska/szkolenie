@@ -23,6 +23,17 @@ gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
+#bundle postgres
+gem 'pg'
+
+# Template system
+gem "slim-rails"
+
+# Use Bootstrap SCSS for stylesheets
+gem 'bootstrap-sass'
+gem 'bootstrap_form'
+
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
