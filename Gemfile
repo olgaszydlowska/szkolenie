@@ -33,6 +33,13 @@ gem "slim-rails"
 gem 'bootstrap-sass'
 gem 'bootstrap_form'
 
+# Pagination for ActiveRecord-like objects
+gem 'kaminari'
+gem 'bootstrap-kaminari-views'
+
+# Font awesome
+gem 'font-awesome-rails'
+
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
